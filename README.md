@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vikas Gupta
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning JavaScript & React
-- 💞️ I’m looking to collaborate on project
+- 👀 I’m interested in Data Analyst
+- 🌱 I’m currently learning SQL & Python
+- 💞️ I’m looking to collaborate on Project
 - 📫 You can reach me on email- vg9859@gmail.com
 
 <!---
